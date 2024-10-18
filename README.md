@@ -1,6 +1,7 @@
 # Best Practices in Programming for Data Analysis
 
 ## Useful links
+The slides used in the seminar can be found [here](https://docs.google.com/presentation/d/1efNuCvP7LXQRZKx5MlgOk8N6KyxehlHIyzRmDrZyVro/edit?usp=sharing).
 
 ### Tools
 - [Git](https://git-scm.com/)
